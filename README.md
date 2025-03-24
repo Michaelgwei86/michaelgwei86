@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Gwei Michael Wawa</h1>
 <h3 align="center">A passionate DevOps and Cloud Engineer</h3>
 
-- 🔭 I’m currently working as an AWS and DEVOPS Engineer [https://www.wandaprep.com/](https://www.wandaprep.com/)
+- 🔭 I’m currently working as an DevOps Engineer
 
-- 🌱 I’m currently learning **Azure, GCP**
+- 🌱 I’m currently learning **Azure, GCP** 
 
 - 👯 I’m looking to collaborate on **DevOps and security projects**
 
-- 💬 Ask me about **AWS, DevOps, Cloud**
+- 💬 Ask me about **AWS, DevOps and Cloud Technologies**
 
 - 📫 How to reach me **michaelgwei86@gmail.com**
 
