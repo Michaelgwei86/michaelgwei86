@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gwei Michael</h1>
+<h1 align="center">Hi 👋, I'm Gwei Michael Wawa</h1>
 <h3 align="center">A passionate DevOps and Cloud Engineer</h3>
 
 - 🔭 I’m currently working as an AWS and DEVOPS Engineer [https://www.wandaprep.com/](https://www.wandaprep.com/)
